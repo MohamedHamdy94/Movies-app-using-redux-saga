@@ -1,0 +1,4 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const FETCH_MOVIE = 'FETCH_MOVIE';
+export const FETCH_MOVIES_LANG = 'FETCH_MOVIES_LANG';
+export const FETCH_MOVIES_PAGE = 'FETCH_MOVIES_PAGE';
